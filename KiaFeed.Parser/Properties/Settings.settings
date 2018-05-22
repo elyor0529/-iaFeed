@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KiaFeed.Parser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NEW_VEHICLE_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.autobase.com/ab/inventory/perfkia/rssfeed3/data.xml</Value>
+    </Setting>
+    <Setting Name="USED_VEHICLE_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.autobase.com/ab/inventory/perfkia/rssfeed2/data.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
